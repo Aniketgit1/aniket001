@@ -1,1 +1,2 @@
 Remote edited file
+local 2nd edit
